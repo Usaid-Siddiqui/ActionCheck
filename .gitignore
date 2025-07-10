@@ -67,3 +67,8 @@ Thumbs.db
 *.rar
 *.tar
 *.zip
+
+# Video Files
+*.mp4
+*.avi
+*.mov
